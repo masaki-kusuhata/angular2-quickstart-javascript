@@ -63,3 +63,5 @@ document.addEventListener('DOMContentLoaded', function() {
 ```bash
 npm start
 ```
+
+https://angular.io/docs/ts/latest/quickstart.html
